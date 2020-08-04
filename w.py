@@ -1,0 +1,5 @@
+f=open('dadu.txt','a')
+f.write('a=1\n')
+f.write('b=2\n')
+f.write('c=3\n')
+print("data stored in file successfully")
